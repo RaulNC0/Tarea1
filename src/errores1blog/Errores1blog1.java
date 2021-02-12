@@ -11,12 +11,12 @@ import java.io.IOException;
 public class Errores1Blog1 {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line arguments*/
 
     
     String  nombre;
     public static void main(String[] args) {
-       // Declaración de variables
+       Declaración de variables
             Double  x, y,z;
             float a, b, c;
 
